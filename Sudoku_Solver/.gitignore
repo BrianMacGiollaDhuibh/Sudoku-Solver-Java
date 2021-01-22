@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+/.idea/uiDesigner.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+*.class
+/Sudoku_Solver.iml
